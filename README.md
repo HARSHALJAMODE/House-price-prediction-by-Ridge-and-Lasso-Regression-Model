@@ -56,8 +56,8 @@ The following variables are very important to predict the price of house
 ### How well those variables describe the price of a house.
 
 1) The Value of R2 score in ridge regrassion in train data is 0.9358 and in test data is 0.9141.
-2) The Value of R2 score in lasso regrassion in train data is 0.9305 and in test data is 0.9189.
-so the variation between train data and test data is very less, hence model is good and all variables are well describing the price of house.
+2) The Value of R2 score in lasso regrassion in train data is 0.9305 and in test data is 0.9189. <br/>
+So the variation between train data and test data is very less, hence model is good and all variables are well describing the price of house.
 
 ### Optimal value of lambda for ridge and lasso regression.
 
